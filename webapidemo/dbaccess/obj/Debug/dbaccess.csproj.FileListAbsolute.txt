@@ -1,0 +1,5 @@
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\bin\Debug\dbaccess.dll
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\bin\Debug\dbaccess.pdb
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\obj\Debug\dbaccess.dll
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\obj\Debug\dbaccess.pdb
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\obj\Debug\dbaccess.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\bin\Release\dbaccess.dll
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\bin\Release\dbaccess.pdb
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\bin\Release\Microsoft.Practices.Unity.Interception.dll
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\obj\Release\dbaccess.csprojResolveAssemblyReference.cache
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\obj\Release\dbaccess.dll
+C:\Users\spider\Documents\Visual Studio 2015\Projects\webapidemo\dbaccess\obj\Release\dbaccess.pdb
