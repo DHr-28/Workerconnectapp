@@ -1,0 +1,7 @@
+<resources>
+    <style name="CustomButtonStyle">
+
+        <item name="android:background">#70ff106d</item>
+
+    </style>
+</resources>
